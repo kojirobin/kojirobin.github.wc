@@ -394,5 +394,115 @@
         "y": 112,
         "z": -5636
       }
+    },
+    {
+      "name": "Ⓑ",
+      "color": "#00dcdc",
+      "icon": "mining",
+      "visibility": "default",
+      "location": {
+        "x": -707,
+        "y": 46,
+        "z": -5562
+      }
+    },
+    {
+      "name": "Ⓑ",
+      "color": "#00dcdc",
+      "icon": "mining",
+      "visibility": "default",
+      "location": {
+        "x": -712,
+        "y": 47,
+        "z": -5567
+      }
+    },
+    {
+      "name": "Ⓑ",
+      "color": "#00dcdc",
+      "icon": "mining",
+      "visibility": "default",
+      "location": {
+        "x": -713,
+        "y": 50,
+        "z": -5569
+      }
+    },
+    {
+      "name": "Ⓑ",
+      "color": "#00dcdc",
+      "icon": "mining",
+      "visibility": "default",
+      "location": {
+        "x": -709,
+        "y": 46,
+        "z": -5572
+      }
+    },
+    {
+      "name": "Ⓑ",
+      "color": "#00dcdc",
+      "icon": "mining",
+      "visibility": "default",
+      "location": {
+        "x": -703,
+        "y": 50,
+        "z": -5577
+      }
+    },
+    {
+      "name": "Ⓑ",
+      "color": "#00dcdc",
+      "icon": "mining",
+      "visibility": "default",
+      "location": {
+        "x": -701,
+        "y": 46,
+        "z": -5574
+      }
+    },
+    {
+      "name": "Ⓑ",
+      "color": "#00dcdc",
+      "icon": "mining",
+      "visibility": "default",
+      "location": {
+        "x": -697,
+        "y": 48,
+        "z": -5572
+      }
+    },
+    {
+      "name": "Ⓑ",
+      "color": "#00dcdc",
+      "icon": "mining",
+      "visibility": "default",
+      "location": {
+        "x": -696,
+        "y": 47,
+        "z": -5567
+      }
+    },
+    {
+      "name": "Ⓑ",
+      "color": "#00dcdc",
+      "icon": "mining",
+      "visibility": "default",
+      "location": {
+        "x": -707,
+        "y": 46,
+        "z": -5568
+      }
+    },
+    {
+      "name": "Ⓑ",
+      "color": "#00dcdc",
+      "icon": "mining",
+      "visibility": "default",
+      "location": {
+        "x": -703,
+        "y": 46,
+        "z": -5568
+      }
     }
   ]
