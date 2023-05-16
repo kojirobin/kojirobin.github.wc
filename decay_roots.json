@@ -1,0 +1,68 @@
+[
+  {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -963,
+        "y": 47,
+        "z": -5300
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -964,
+        "y": 47,
+        "z": -5305
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -956,
+        "y": 48,
+        "z": -5309
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -954,
+        "y": 47,
+        "z": -5303
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -946,
+        "y": 48,
+        "z": -5305
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -948,
+        "y": 47,
+        "z": -5298
+      }
+    }
+  ]
