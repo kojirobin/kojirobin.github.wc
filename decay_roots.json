@@ -471,5 +471,434 @@
         "y": 47,
         "z": -5047
       }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -547,
+        "y": 54,
+        "z": -5479
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -544,
+        "y": 54,
+        "z": -5476
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -529,
+        "y": 54,
+        "z": -5463
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -527,
+        "y": 54,
+        "z": -5464
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -524,
+        "y": 54,
+        "z": -5461
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -526,
+        "y": 54,
+        "z": -5459
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -530,
+        "y": 54,
+        "z": -5457
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -531,
+        "y": 54,
+        "z": -5461
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -517,
+        "y": 49,
+        "z": -5437
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -515,
+        "y": 49,
+        "z": -5434
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -513,
+        "y": 49,
+        "z": -5431
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -511,
+        "y": 49,
+        "z": -5434
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -509,
+        "y": 49,
+        "z": -5437
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -526,
+        "y": 49,
+        "z": -5432
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -525,
+        "y": 49,
+        "z": -5436
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -521,
+        "y": 49,
+        "z": -5423
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -518,
+        "y": 49,
+        "z": -5425
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -516,
+        "y": 49,
+        "z": -5423
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -517,
+        "y": 49,
+        "z": -5421
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -519,
+        "y": 49,
+        "z": -5418
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -522,
+        "y": 49,
+        "z": -5419
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -524,
+        "y": 49,
+        "z": -5421
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -529,
+        "y": 51,
+        "z": -5417
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -493,
+        "y": 50,
+        "z": -5462
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -487,
+        "y": 48,
+        "z": -5467
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -485,
+        "y": 48,
+        "z": -5452
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -481,
+        "y": 47,
+        "z": -5452
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -477,
+        "y": 46,
+        "z": -5467
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -530,
+        "y": 55,
+        "z": -5406
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -531,
+        "y": 55,
+        "z": -5402
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -617,
+        "y": 62,
+        "z": -5475
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -615,
+        "y": 62,
+        "z": -5480
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -622,
+        "y": 62,
+        "z": -5481
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -626,
+        "y": 62,
+        "z": -5476
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -629,
+        "y": 62,
+        "z": -5477
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -577,
+        "y": 61,
+        "z": -5435
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -584,
+        "y": 61,
+        "z": -5434
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -582,
+        "y": 61,
+        "z": -5428
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#78615c",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -586,
+        "y": 61,
+        "z": -5417
+      }
     }
   ]
