@@ -438,5 +438,16 @@
         "y": 40,
         "z": -5091
       }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#f0debb",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -497,
+        "y": 47,
+        "z": -4893
+      }
     }
   ]
