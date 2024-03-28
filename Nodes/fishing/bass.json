@@ -339,5 +339,60 @@
         "y": 45,
         "z": -5567
       }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#aca033",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 488,
+        "y": 25,
+        "z": -5367
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#aca033",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 484,
+        "y": 25,
+        "z": -5361
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#aca033",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 480,
+        "y": 25,
+        "z": -5355
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#aca033",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 479,
+        "y": 25,
+        "z": -5351
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#aca033",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 476,
+        "y": 25,
+        "z": -5353
+      }
     }
 ]
