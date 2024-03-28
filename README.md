@@ -9,7 +9,7 @@ The premise is to mark all of the gathering profession "nodes" into a waypoint f
 
 There is a file for each material that you can import into your Artemis mod.
 
-### map poiProvider
+### First method (map poiProvider) RECOMMENDED!
 
 Artemis has this neat command to import Waypoints from online raw files:
 
@@ -21,7 +21,7 @@ To use this command, pick the file of the material you want, click on the "Raw" 
 
 The quotation marks are vital when prompting this command.
 
-You can toggle the waypoints you import from this command via:
+You can toggle the visibility of the waypoints you import from this command via:
 
 /map poiProvider toggle <choose from your list of added waypoint sets>
 
@@ -34,4 +34,11 @@ The remaining commands are self-explanatory:
 /map poiProvider list
 /map poiProvider remove <choose from your list of added waypoint sets>
 
-That's basically it!
+### Second method (import) Not recommended
+
+Another method (I've personally not tried this) would be to go into a material's file, copy the code itself (not the URL), and go into the Waypoints menu and clicking the "Import" button.
+Mind that this method doesn't provide an easy toggle, self-updating with updates to my Github files, or any other benefits. They are now client-side plain old Artemis waypoints, basically.
+
+
+
+That's basically it! Thank you for checking my project out!
