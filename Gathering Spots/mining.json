@@ -1,0 +1,13 @@
+[
+  {
+      "name": "Ⓑ 9 Diamond Ⓑ",
+      "color": "#b3b300",
+      "icon": "mining",
+      "visibility": "always",
+      "location": {
+        "x": 327,
+        "y": 27,
+        "z": -5333
+      }
+    }
+]
