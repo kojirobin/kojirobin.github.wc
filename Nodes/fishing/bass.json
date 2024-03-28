@@ -394,5 +394,214 @@
         "y": 25,
         "z": -5353
       }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#aca033",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 478,
+        "y": 25,
+        "z": -5298
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#aca033",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 457,
+        "y": 26,
+        "z": -5277
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#aca033",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 456,
+        "y": 26,
+        "z": -5273
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#aca033",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 461,
+        "y": 25,
+        "z": -5271
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#aca033",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 457,
+        "y": 25,
+        "z": -5265
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#aca033",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 462,
+        "y": 25,
+        "z": -5264
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#aca033",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 499,
+        "y": 25,
+        "z": -5211
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#aca033",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 507,
+        "y": 25,
+        "z": -5205
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#aca033",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 514,
+        "y": 25,
+        "z": -5201
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#aca033",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 508,
+        "y": 25,
+        "z": -5200
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#aca033",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 510,
+        "y": 25,
+        "z": -5193
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#aca033",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 506,
+        "y": 25,
+        "z": -5185
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#aca033",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 498,
+        "y": 25,
+        "z": -5186
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#aca033",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 497,
+        "y": 25,
+        "z": -5202
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#aca033",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 464,
+        "y": 25,
+        "z": -5236
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#aca033",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 458,
+        "y": 25,
+        "z": -5238
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#aca033",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 459,
+        "y": 25,
+        "z": -5229
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#aca033",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 454,
+        "y": 25,
+        "z": -5229
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#aca033",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 456,
+        "y": 25,
+        "z": -5226
+      }
     }
 ]
