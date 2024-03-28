@@ -35,11 +35,13 @@ The remaining commands are self-explanatory:
 
 `/map poiProvider remove <choose from your list of added waypoint sets>`
 
+Note that this method doesn't allow you to
+
 ### Second method (import) Not recommended
 
 Another method (I've personally not tried this) would be to go into a material's file, copy the code itself (not the URL), and go into the Waypoints menu and clicking the "Import" button.
-Mind that this method doesn't provide an easy toggle, self-updating with updates to my Github files, or any other benefits. They are now client-side plain old Artemis waypoints, basically.
+Mind that this method doesn't provide an easy toggle, self-updating with updates to my Github files, or any other benefits. Though it will allow for changing the colors or icons of the waypoint. These are essentially going to be client-side plain old Artemis waypoints.
 
-
+## Thank you!
 
 That's basically it! Thank you for checking my project out!
