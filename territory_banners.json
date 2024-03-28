@@ -493,5 +493,27 @@
         "y": 27,
         "z": -5392
       }
+    },
+    {
+      "name": "Eltom",
+      "color": "#ffffff",
+      "icon": "wall",
+      "visibility": "default",
+      "location": {
+        "x": 976,
+        "y": 107,
+        "z": -5497
+      }
+    },
+    {
+      "name": "Cherry Blossom Forest",
+      "color": "#ffffff",
+      "icon": "wall",
+      "visibility": "default",
+      "location": {
+        "x": 604,
+        "y": 98,
+        "z": -5487
+      }
     }
 ]
