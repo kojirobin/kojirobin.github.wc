@@ -31,9 +31,9 @@ You can update (reload) the imported sets in your game if the raw codes here in 
 
 The remaining commands are self-explanatory:
 
-`/map poiProvider list
+`/map poiProvider list`
 
-/map poiProvider remove <choose from your list of added waypoint sets>`
+`/map poiProvider remove <choose from your list of added waypoint sets>`
 
 ### Second method (import) Not recommended
 
