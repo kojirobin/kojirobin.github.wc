@@ -1,0 +1,90 @@
+[
+  {
+      "name": "Ⓑ",
+      "color": "#b9f2ff",
+      "icon": "mining",
+      "visibility": "default",
+      "location": {
+        "x": 323,
+        "y": 24,
+        "z": -5324
+      }
+    },
+    {
+      "name": "Ⓑ",
+      "color": "#b9f2ff",
+      "icon": "mining",
+      "visibility": "default",
+      "location": {
+        "x": 330,
+        "y": 24,
+        "z": -5325
+      }
+    },
+    {
+      "name": "Ⓑ",
+      "color": "#b9f2ff",
+      "icon": "mining",
+      "visibility": "default",
+      "location": {
+        "x": 331,
+        "y": 25,
+        "z": -5316
+      }
+    },
+    {
+      "name": "Ⓑ",
+      "color": "#b9f2ff",
+      "icon": "mining",
+      "visibility": "default",
+      "location": {
+        "x": 325,
+        "y": 25,
+        "z": -5319
+      }
+    },
+    {
+      "name": "Ⓑ",
+      "color": "#b9f2ff",
+      "icon": "mining",
+      "visibility": "default",
+      "location": {
+        "x": 317,
+        "y": 28,
+        "z": -5319
+      }
+    },
+    {
+      "name": "Ⓑ",
+      "color": "#b9f2ff",
+      "icon": "mining",
+      "visibility": "default",
+      "location": {
+        "x": 324,
+        "y": 24,
+        "z": -5311
+      }
+    },
+    {
+      "name": "Ⓑ",
+      "color": "#b9f2ff",
+      "icon": "mining",
+      "visibility": "default",
+      "location": {
+        "x": 318,
+        "y": 23,
+        "z": -5311
+      }
+    },
+    {
+      "name": "Ⓑ",
+      "color": "#b9f2ff",
+      "icon": "mining",
+      "visibility": "default",
+      "location": {
+        "x": 320,
+        "y": 24,
+        "z": -5315
+      }
+    }
+]
