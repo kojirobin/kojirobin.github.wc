@@ -1,0 +1,24 @@
+[
+  {
+      "name": "Ⓙ 15 Rice Ⓙ",
+      "color": "#00b3b3",
+      "icon": "farming",
+      "visibility": "always",
+      "location": {
+        "x": 430,
+        "y": null,
+        "z": -5311
+      }
+    },
+    {
+      "name": "Ⓙ 15 Rice Ⓙ",
+      "color": "#00b3b3",
+      "icon": "farming",
+      "visibility": "always",
+      "location": {
+        "x": 497,
+        "y": null,
+        "z": -5513
+      }
+    }
+]
