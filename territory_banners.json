@@ -515,5 +515,16 @@
         "y": 98,
         "z": -5487
       }
+    },
+    {
+      "name": "Hive",
+      "color": "#ffffff",
+      "icon": "wall",
+      "visibility": "default",
+      "location": {
+        "x": 334,
+        "y": 30,
+        "z": -5450
+      }
     }
 ]
