@@ -1,0 +1,145 @@
+[
+    {
+      "name": "Ⓚ",
+      "color": "#f43043",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 523,
+        "y": 101,
+        "z": -5566
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#f43043",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 526,
+        "y": 101,
+        "z": -5569
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#f43043",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 515,
+        "y": 101,
+        "z": -5543
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#f43043",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 521,
+        "y": 101,
+        "z": -5552
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#f43043",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 527,
+        "y": 101,
+        "z": -5549
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#f43043",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 529,
+        "y": 101,
+        "z": -5554
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#f43043",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 554,
+        "y": 101,
+        "z": -5545
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#f43043",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 557,
+        "y": 101,
+        "z": -5547
+      }
+    },
+    {
+      "name": " Ⓚ",
+      "color": "#f43043",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 642,
+        "y": 80,
+        "z": -5508
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#f43043",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 645,
+        "y": 80,
+        "z": -5512
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#f43043",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 656,
+        "y": 80,
+        "z": -5520
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#f43043",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 654,
+        "y": 80,
+        "z": -5523
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#f43043",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 665,
+        "y": 80,
+        "z": -5534
+      }
+    }
+]
