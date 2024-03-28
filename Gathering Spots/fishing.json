@@ -1,0 +1,35 @@
+[
+  {
+      "name": "Ⓚ 8 Koi Ⓚ",
+      "color": "#b3b300",
+      "icon": "fishing",
+      "visibility": "always",
+      "location": {
+        "x": 524,
+        "y": null,
+        "z": -5540
+      }
+    },
+    {
+      "name": "Ⓚ 9 Koi Ⓚ",
+      "color": "#b3b300",
+      "icon": "fishing",
+      "visibility": "always",
+      "location": {
+        "x": 654,
+        "y": null,
+        "z": -5539
+      }
+    },
+    {
+      "name": "Ⓚ 25 Bass Ⓚ",
+      "color": "#00b3b3",
+      "icon": "fishing",
+      "visibility": "always",
+      "location": {
+        "x": 603,
+        "y": null,
+        "z": -5521
+      }
+    }
+]
