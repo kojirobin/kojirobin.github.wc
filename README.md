@@ -17,7 +17,7 @@ Artemis has this neat command to import Waypoints from online raw files:
 
 To use this command, pick the file of the material you want, click on the "Raw" button on the right upper side of the page. That will take you to the URL of the raw code. Copy that URL and do:
 
-/map poiProvider add "<any name you want/the name of the material you're importing>" "<URL of the raw code>"
+/map poiProvider add "<any name you want/the name of the material you're importing>" "<the URL of the raw code>"
 
 The quotation marks are vital when prompting this command.
 
