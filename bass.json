@@ -295,5 +295,49 @@
         "y": 12,
         "z": -5516
       }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#aca033",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 512,
+        "y": 41,
+        "z": -5544
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#aca033",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 513,
+        "y": 41,
+        "z": -5541
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#aca033",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 498,
+        "y": 45,
+        "z": -5565
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#aca033",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 501,
+        "y": 45,
+        "z": -5567
+      }
     }
 ]
