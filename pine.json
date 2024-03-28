@@ -229,5 +229,16 @@
         "y": 73,
         "z": -5449
       }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#5f5d36",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": 452,
+        "y": 115,
+        "z": -5422
+      }
     }
 ]
