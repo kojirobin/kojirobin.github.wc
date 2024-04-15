@@ -603,5 +603,38 @@
         "y": 25,
         "z": -5226
       }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#aca033",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 396,
+        "y": 25,
+        "z": -5190
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#aca033",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 386,
+        "y": 25,
+        "z": -5191
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#aca033",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": 381,
+        "y": 25,
+        "z": -5194
+      }
     }
 ]
