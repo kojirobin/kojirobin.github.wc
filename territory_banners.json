@@ -526,5 +526,60 @@
         "y": 30,
         "z": -5450
       }
+    },
+    {
+      "name": "Canyon High Path",
+      "color": "#ffffff",
+      "icon": "wall",
+      "visibility": "default",
+      "location": {
+        "x": 497,
+        "y": 27,
+        "z": -5248
+      }
+    },
+    {
+      "name": "Canyon Walk Way",
+      "color": "#ffffff",
+      "icon": "wall",
+      "visibility": "default",
+      "location": {
+        "x": 316,
+        "y": 30,
+        "z": -5110
+      }
+    },
+    {
+      "name": "Nemract Plains West",
+      "color": "#ffffff",
+      "icon": "wall",
+      "visibility": "default",
+      "location": {
+        "x": -30,
+        "y": 58,
+        "z": -1872
+      }
+    },
+    {
+      "name": "Llevigar",
+      "color": "#ffffff",
+      "icon": "wall",
+      "visibility": "default",
+      "location": {
+        "x": -1998,
+        "y": 34,
+        "z": -4572
+      }
+    },
+    {
+      "name": "Llevigar Entrance",
+      "color": "#ffffff",
+      "icon": "wall",
+      "visibility": "default",
+      "location": {
+        "x": -2011,
+        "y": 35,
+        "z": -4395
+      }
     }
 ]
