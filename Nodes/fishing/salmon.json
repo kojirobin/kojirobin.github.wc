@@ -1,0 +1,35 @@
+[
+  {
+      "name": "Ⓚ",
+      "color": "#ccced2",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -1952,
+        "y": 32,
+        "z": -4371
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#ccced2",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -1964,
+        "y": 32,
+        "z": -4368
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#ccced2",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -1961,
+        "y": 32,
+        "z": -4362
+      }
+    }
+]
