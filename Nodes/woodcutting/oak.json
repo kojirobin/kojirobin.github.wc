@@ -1549,5 +1549,1358 @@
         "y": 25,
         "z": -4321
       }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -448,
+        "y": 45,
+        "z": -5238
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -410,
+        "y": 45,
+        "z": -5246
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -415,
+        "y": 35,
+        "z": -5201
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -422,
+        "y": 34,
+        "z": -5169
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -390,
+        "y": 35,
+        "z": -5170
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -398,
+        "y": 43,
+        "z": -5213
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -372,
+        "y": 44,
+        "z": -5249
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -367,
+        "y": 45,
+        "z": -5265
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -377,
+        "y": 46,
+        "z": -5298
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -347,
+        "y": 43,
+        "z": -5335
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -333,
+        "y": 32,
+        "z": -5170
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -326,
+        "y": 32,
+        "z": -5174
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -292,
+        "y": 34,
+        "z": -5222
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -260,
+        "y": 34,
+        "z": -5213
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -257,
+        "y": 32,
+        "z": -5262
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -292,
+        "y": 38,
+        "z": -5248
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -304,
+        "y": 35,
+        "z": -5265
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -321,
+        "y": 49,
+        "z": -5268
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -357,
+        "y": 33,
+        "z": -5167
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -260,
+        "y": 32,
+        "z": -5283
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -229,
+        "y": 27,
+        "z": -5315
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -224,
+        "y": 28,
+        "z": -5331
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -251,
+        "y": 35,
+        "z": -5335
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -322,
+        "y": 44,
+        "z": -5383
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -323,
+        "y": 43,
+        "z": -5436
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -312,
+        "y": 44,
+        "z": -5440
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -291,
+        "y": 43,
+        "z": -5439
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -318,
+        "y": 71,
+        "z": -5462
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -311,
+        "y": 67,
+        "z": -5472
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -332,
+        "y": 69,
+        "z": -5503
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -322,
+        "y": 65,
+        "z": -5525
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -314,
+        "y": 64,
+        "z": -5515
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -298,
+        "y": 63,
+        "z": -5470
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -301,
+        "y": 64,
+        "z": -5479
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -288,
+        "y": 61,
+        "z": -5489
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -325,
+        "y": 44,
+        "z": -5556
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -304,
+        "y": 43,
+        "z": -5561
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -296,
+        "y": 43,
+        "z": -5544
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -284,
+        "y": 53,
+        "z": -5512
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -246,
+        "y": 69,
+        "z": -5511
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -200,
+        "y": 33,
+        "z": -5447
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -207,
+        "y": 34,
+        "z": -5453
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -217,
+        "y": 36,
+        "z": -5442
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -238,
+        "y": 43,
+        "z": -5446
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -206,
+        "y": 36,
+        "z": -5428
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -237,
+        "y": 43,
+        "z": -5375
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -210,
+        "y": 28,
+        "z": -5351
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -201,
+        "y": 27,
+        "z": -5352
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -183,
+        "y": 27,
+        "z": -5386
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -162,
+        "y": 36,
+        "z": -5437
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -150,
+        "y": 39,
+        "z": -5444
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -143,
+        "y": 29,
+        "z": -5412
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -131,
+        "y": 36,
+        "z": -5435
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -123,
+        "y": 33,
+        "z": -5454
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -129,
+        "y": 33,
+        "z": -5465
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -123,
+        "y": 33,
+        "z": -5465
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -126,
+        "y": 33,
+        "z": -5470
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -116,
+        "y": 33,
+        "z": -5461
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -115,
+        "y": 34,
+        "z": -5454
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -109,
+        "y": 34,
+        "z": -5458
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -108,
+        "y": 34,
+        "z": -5450
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -104,
+        "y": 34,
+        "z": -5454
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -79,
+        "y": 35,
+        "z": -5460
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -82,
+        "y": 35,
+        "z": -5452
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -19,
+        "y": 34,
+        "z": -5462
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -37,
+        "y": 36,
+        "z": -5446
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -40,
+        "y": 36,
+        "z": -5463
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -43,
+        "y": 35,
+        "z": -5481
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -54,
+        "y": 36,
+        "z": -5489
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -334,
+        "y": 32,
+        "z": -5139
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -312,
+        "y": 32,
+        "z": -5158
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -301,
+        "y": 32,
+        "z": -5179
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -296,
+        "y": 33,
+        "z": -5192
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -285,
+        "y": 39,
+        "z": -5185
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -286,
+        "y": 33,
+        "z": -5163
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -298,
+        "y": 32,
+        "z": -5152
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -288,
+        "y": 33,
+        "z": -5123
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -269,
+        "y": 33,
+        "z": -5130
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -256,
+        "y": 34,
+        "z": -5086
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -230,
+        "y": 33,
+        "z": -5096
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -215,
+        "y": 33,
+        "z": -5110
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -251,
+        "y": 33,
+        "z": -5167
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -244,
+        "y": 33,
+        "z": -5165
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -237,
+        "y": 33,
+        "z": -5174
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -222,
+        "y": 33,
+        "z": -5168
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -195,
+        "y": 33,
+        "z": -5149
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -189,
+        "y": 33,
+        "z": -5154
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -189,
+        "y": 33,
+        "z": -5145
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -181,
+        "y": 33,
+        "z": -5102
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -186,
+        "y": 39,
+        "z": -5124
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -196,
+        "y": 34,
+        "z": -5078
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -213,
+        "y": 34,
+        "z": -5067
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -177,
+        "y": 37,
+        "z": -5060
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -153,
+        "y": 33,
+        "z": -5031
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": 187,
+        "y": 54,
+        "z": -5543
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": 8,
+        "y": 34,
+        "z": -5349
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -14,
+        "y": 34,
+        "z": -5343
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -41,
+        "y": 29,
+        "z": -5362
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -55,
+        "y": 29,
+        "z": -5368
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -58,
+        "y": 36,
+        "z": -5396
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -83,
+        "y": 33,
+        "z": -5384
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -88,
+        "y": 31,
+        "z": -5371
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": 13,
+        "y": 34,
+        "z": -5325
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": 18,
+        "y": 34,
+        "z": -5293
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -2,
+        "y": 32,
+        "z": -5291
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": 15,
+        "y": 32,
+        "z": -5276
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -15,
+        "y": 30,
+        "z": -5269
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -7,
+        "y": 28,
+        "z": -5254
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": 18,
+        "y": 29,
+        "z": -5247
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": 14,
+        "y": 28,
+        "z": -5234
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -15,
+        "y": 26,
+        "z": -5217
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -32,
+        "y": 27,
+        "z": -5199
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -5,
+        "y": 34,
+        "z": -5077
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -18,
+        "y": 35,
+        "z": -5079
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -16,
+        "y": 34,
+        "z": -5065
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -34,
+        "y": 35,
+        "z": -5077
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -56,
+        "y": 34,
+        "z": -5095
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -49,
+        "y": 35,
+        "z": -5085
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -59,
+        "y": 35,
+        "z": -5086
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -63,
+        "y": 34,
+        "z": -5098
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -86,
+        "y": 27,
+        "z": -5133
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -111,
+        "y": 27,
+        "z": -5123
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#d8b589",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -95,
+        "y": 34,
+        "z": -5091
+      }
     }
 ]
