@@ -1,0 +1,13 @@
+[
+  {
+      "name": "Ⓚ",
+      "color": "#d0a75a",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -2055,
+        "y": 33,
+        "z": -4278
+      }
+    }
+]
