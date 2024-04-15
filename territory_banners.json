@@ -581,5 +581,170 @@
         "y": 35,
         "z": -4395
       }
+    },
+    {
+      "name": "Guild Hall",
+      "color": "#ffffff",
+      "icon": "wall",
+      "visibility": "default",
+      "location": {
+        "x": -304,
+        "y": 47,
+        "z": -4910
+      }
+    },
+    {
+      "name": "Cinfras",
+      "color": "#ffffff",
+      "icon": "wall",
+      "visibility": "default",
+      "location": {
+        "x": -463,
+        "y": 47,
+        "z": -4947
+      }
+    },
+    {
+      "name": "Cinfras Entrance",
+      "color": "#ffffff",
+      "icon": "wall",
+      "visibility": "default",
+      "location": {
+        "x": -562,
+        "y": 46,
+        "z": -4943
+      }
+    },
+    {
+      "name": "Path to Cinfras",
+      "color": "#ffffff",
+      "icon": "wall",
+      "visibility": "default",
+      "location": {
+        "x": -751,
+        "y": 43,
+        "z": -4913
+      }
+    },
+    {
+      "name": "Cinfras Outskirts",
+      "color": "#ffffff",
+      "icon": "wall",
+      "visibility": "default",
+      "location": {
+        "x": -455,
+        "y": 43,
+        "z": -5204
+      }
+    },
+    {
+      "name": "Mushroom Hill",
+      "color": "#ffffff",
+      "icon": "wall",
+      "visibility": "default",
+      "location": {
+        "x": -319,
+        "y": 44,
+        "z": -5537
+      }
+    },
+    {
+      "name": "Dark Forest Cinfras Transition",
+      "color": "#ffffff",
+      "icon": "wall",
+      "visibility": "default",
+      "location": {
+        "x": -348,
+        "y": 35,
+        "z": -5203
+      }
+    },
+    {
+      "name": "Jitak\u0027s Farm",
+      "color": "#ffffff",
+      "icon": "wall",
+      "visibility": "default",
+      "location": {
+        "x": -162,
+        "y": 33,
+        "z": -5459
+      }
+    },
+    {
+      "name": "Gylia Lake North West",
+      "color": "#ffffff",
+      "icon": "wall",
+      "visibility": "default",
+      "location": {
+        "x": -176,
+        "y": 27,
+        "z": -5389
+      }
+    },
+    {
+      "name": "Fallen Village",
+      "color": "#ffffff",
+      "icon": "wall",
+      "visibility": "default",
+      "location": {
+        "x": -318,
+        "y": 43,
+        "z": -5319
+      }
+    },
+    {
+      "name": "Gylia Lake South West",
+      "color": "#ffffff",
+      "icon": "wall",
+      "visibility": "default",
+      "location": {
+        "x": -210,
+        "y": 30,
+        "z": -5216
+      }
+    },
+    {
+      "name": "Gert Camp",
+      "color": "#ffffff",
+      "icon": "wall",
+      "visibility": "default",
+      "location": {
+        "x": -16,
+        "y": 34,
+        "z": -5526
+      }
+    },
+    {
+      "name": "Gylia Lake North East",
+      "color": "#ffffff",
+      "icon": "wall",
+      "visibility": "default",
+      "location": {
+        "x": -41,
+        "y": 28,
+        "z": -5352
+      }
+    },
+    {
+      "name": "Gylia Lake South East",
+      "color": "#ffffff",
+      "icon": "wall",
+      "visibility": "default",
+      "location": {
+        "x": -51,
+        "y": 32,
+        "z": -5240
+      }
+    },
+    {
+      "name": "Cinfras County Upper",
+      "color": "#ffffff",
+      "icon": "wall",
+      "visibility": "default",
+      "location": {
+        "x": -76,
+        "y": 34,
+        "z": -5097
+      }
     }
 ]
