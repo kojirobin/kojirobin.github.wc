@@ -1,0 +1,24 @@
+[
+  {
+      "name": "Ⓒ",
+      "color": "#69c17e",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -2059,
+        "y": 77,
+        "z": -4486
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#69c17e",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -1936,
+        "y": 77,
+        "z": -4485
+      }
+    }
+]
