@@ -1945,5 +1945,423 @@
         "y": 26,
         "z": -5253
       }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#d86bdc",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -363,
+        "y": 33,
+        "z": -5188
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#d86bdc",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -79,
+        "y": 5,
+        "z": -5497
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#d86bdc",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -80,
+        "y": 5,
+        "z": -5494
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#d86bdc",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -77,
+        "y": 5,
+        "z": -5492
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#d86bdc",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -79,
+        "y": 5,
+        "z": -5490
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#d86bdc",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -75,
+        "y": 5,
+        "z": -5489
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#d86bdc",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -76,
+        "y": 5,
+        "z": -5486
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#d86bdc",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -71,
+        "y": 8,
+        "z": -5437
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#d86bdc",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -68,
+        "y": 8,
+        "z": -5438
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#d86bdc",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -68,
+        "y": 8,
+        "z": -5435
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#d86bdc",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -69,
+        "y": 8,
+        "z": -5433
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#d86bdc",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -73,
+        "y": 8,
+        "z": -5433
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#d86bdc",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -71,
+        "y": 8,
+        "z": -5430
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#d86bdc",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -75,
+        "y": 8,
+        "z": -5430
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#d86bdc",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -77,
+        "y": 8,
+        "z": -5428
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#d86bdc",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -75,
+        "y": 8,
+        "z": -5427
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#d86bdc",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -72,
+        "y": 8,
+        "z": -5428
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#d86bdc",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -73,
+        "y": 9,
+        "z": -5411
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#d86bdc",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -73,
+        "y": 10,
+        "z": -5407
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#d86bdc",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -77,
+        "y": 10,
+        "z": -5407
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#d86bdc",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -74,
+        "y": 10,
+        "z": -5403
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#d86bdc",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -76,
+        "y": 10,
+        "z": -5401
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#d86bdc",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -75,
+        "y": 10,
+        "z": -5399
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#d86bdc",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -74,
+        "y": 10,
+        "z": -5396
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#d86bdc",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -76,
+        "y": 10,
+        "z": -5395
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#d86bdc",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -264,
+        "y": 31,
+        "z": -5060
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#d86bdc",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -238,
+        "y": 31,
+        "z": -5077
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#d86bdc",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -203,
+        "y": 31,
+        "z": -5091
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#d86bdc",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -176,
+        "y": 31,
+        "z": -5090
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#d86bdc",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -124,
+        "y": 31,
+        "z": -5055
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#d86bdc",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -118,
+        "y": 31,
+        "z": -5049
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#d86bdc",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -142,
+        "y": 31,
+        "z": -5051
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#d86bdc",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -142,
+        "y": 31,
+        "z": -5041
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#d86bdc",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -142,
+        "y": 31,
+        "z": -5032
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#d86bdc",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -141,
+        "y": 31,
+        "z": -5021
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#d86bdc",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -170,
+        "y": 31,
+        "z": -5002
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#d86bdc",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -189,
+        "y": 31,
+        "z": -5001
+      }
+    },
+    {
+      "name": "Ⓚ",
+      "color": "#d86bdc",
+      "icon": "fishing",
+      "visibility": "default",
+      "location": {
+        "x": -207,
+        "y": 32,
+        "z": -4999
+      }
     }
-  ]
+]
