@@ -603,5 +603,236 @@
         "y": 47,
         "z": -4842
       }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#f0debb",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -297,
+        "y": 35,
+        "z": -5281
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#f0debb",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -292,
+        "y": 35,
+        "z": -5281
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#f0debb",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -300,
+        "y": 35,
+        "z": -5276
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#f0debb",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -292,
+        "y": 35,
+        "z": -5277
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#f0debb",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -297,
+        "y": 36,
+        "z": -5269
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#f0debb",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -291,
+        "y": 36,
+        "z": -5270
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#f0debb",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -286,
+        "y": 35,
+        "z": -5277
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#f0debb",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -284,
+        "y": 35,
+        "z": -5281
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#f0debb",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -281,
+        "y": 36,
+        "z": -5274
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#f0debb",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -280,
+        "y": 36,
+        "z": -5266
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#f0debb",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -284,
+        "y": 37,
+        "z": -5265
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#f0debb",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -197,
+        "y": 33,
+        "z": -5476
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#f0debb",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -195,
+        "y": 33,
+        "z": -5475
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#f0debb",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -191,
+        "y": 33,
+        "z": -5474
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#f0debb",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -188,
+        "y": 33,
+        "z": -5479
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#f0debb",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -185,
+        "y": 33,
+        "z": -5475
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#f0debb",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -190,
+        "y": 33,
+        "z": -5465
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#f0debb",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -189,
+        "y": 33,
+        "z": -5462
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#f0debb",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -191,
+        "y": 33,
+        "z": -5458
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#f0debb",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -195,
+        "y": 33,
+        "z": -5461
+      }
+    },
+    {
+      "name": "Ⓙ",
+      "color": "#f0debb",
+      "icon": "farming",
+      "visibility": "default",
+      "location": {
+        "x": -196,
+        "y": 33,
+        "z": -5464
+      }
     }
   ]
