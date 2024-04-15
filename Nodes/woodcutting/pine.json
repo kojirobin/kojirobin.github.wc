@@ -724,5 +724,49 @@
         "y": 52,
         "z": -5172
       }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#5f5d36",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": 416,
+        "y": 29,
+        "z": -5216
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#5f5d36",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": 406,
+        "y": 29,
+        "z": -5212
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#5f5d36",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": 398,
+        "y": 29,
+        "z": -5222
+      }
+    },
+    {
+      "name": "Ⓒ",
+      "color": "#5f5d36",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": 302,
+        "y": 29,
+        "z": -5107
+      }
     }
 ]
