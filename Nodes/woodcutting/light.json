@@ -1,0 +1,13 @@
+[
+    {
+      "name": "Ⓒ",
+      "color": "#a69d6fff",
+      "icon": "woodcutting",
+      "visibility": "default",
+      "location": {
+        "x": -335,
+        "y": 79,
+        "z": -4588
+      }
+    }
+]
