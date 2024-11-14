@@ -1,0 +1,79 @@
+[
+    {
+      "name": "Ⓑ",
+      "color": "#c0c0c0ff",
+      "icon": "mining",
+      "visibility": "default",
+      "location": {
+        "x": -2375,
+        "y": 6,
+        "z": -6884
+      }
+    },
+    {
+      "name": "Ⓑ",
+      "color": "#c0c0c0ff",
+      "icon": "mining",
+      "visibility": "default",
+      "location": {
+        "x": -2373,
+        "y": 8,
+        "z": -6885
+      }
+    },
+    {
+      "name": "Ⓑ",
+      "color": "#c0c0c0ff",
+      "icon": "mining",
+      "visibility": "default",
+      "location": {
+        "x": -2365,
+        "y": 7,
+        "z": -6889
+      }
+    },
+    {
+      "name": "Ⓑ",
+      "color": "#c0c0c0ff",
+      "icon": "mining",
+      "visibility": "default",
+      "location": {
+        "x": -2364,
+        "y": 8,
+        "z": -6892
+      }
+    },
+    {
+      "name": "Ⓑ",
+      "color": "#c0c0c0ff",
+      "icon": "mining",
+      "visibility": "default",
+      "location": {
+        "x": -2364,
+        "y": 10,
+        "z": -6894
+      }
+    },
+    {
+      "name": "Ⓑ",
+      "color": "#c0c0c0ff",
+      "icon": "mining",
+      "visibility": "default",
+      "location": {
+        "x": -2366,
+        "y": 6,
+        "z": -6895
+      }
+    },
+    {
+      "name": "Ⓑ",
+      "color": "#c0c0c0ff",
+      "icon": "mining",
+      "visibility": "default",
+      "location": {
+        "x": -2377,
+        "y": 6,
+        "z": -6894
+      }
+    }
+]
