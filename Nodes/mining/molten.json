@@ -1,0 +1,79 @@
+[
+    {
+      "name": "Ⓑ",
+      "color": "#b5332eff",
+      "icon": "mining",
+      "visibility": "default",
+      "location": {
+        "x": -7941,
+        "y": 112,
+        "z": -13588
+      }
+    },
+    {
+      "name": "Ⓑ",
+      "color": "#b5332eff",
+      "icon": "mining",
+      "visibility": "default",
+      "location": {
+        "x": -7936,
+        "y": 108,
+        "z": -13585
+      }
+    },
+    {
+      "name": "Ⓑ",
+      "color": "#b5332eff",
+      "icon": "mining",
+      "visibility": "default",
+      "location": {
+        "x": -7939,
+        "y": 110,
+        "z": -13581
+      }
+    },
+    {
+      "name": "Ⓑ",
+      "color": "#b5332eff",
+      "icon": "mining",
+      "visibility": "default",
+      "location": {
+        "x": -7933,
+        "y": 109,
+        "z": -13576
+      }
+    },
+    {
+      "name": "Ⓑ",
+      "color": "#b5332eff",
+      "icon": "mining",
+      "visibility": "default",
+      "location": {
+        "x": -7937,
+        "y": 107,
+        "z": -13571
+      }
+    },
+    {
+      "name": "Ⓑ",
+      "color": "#b5332eff",
+      "icon": "mining",
+      "visibility": "default",
+      "location": {
+        "x": -7928,
+        "y": 106,
+        "z": -13567
+      }
+    },
+    {
+      "name": "Ⓑ",
+      "color": "#b5332eff",
+      "icon": "mining",
+      "visibility": "default",
+      "location": {
+        "x": -7931,
+        "y": 107,
+        "z": -13564
+      }
+    }
+]
